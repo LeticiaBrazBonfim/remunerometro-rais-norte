@@ -1,0 +1,9 @@
+dados/*
+!dados/.gitkeep
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tmp
+_verificar_final.py
+_gerar_html_final.py

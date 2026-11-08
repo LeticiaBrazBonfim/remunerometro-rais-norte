@@ -1,0 +1,97 @@
+id_familia,municipio,estado,zona,renda_mensal,consumo_mensal,idade_chefe,sexo_chefe,estado_civil_chefe,escolaridade_chefe,pessoas_familia
+F001,Sousa,PB,urbana,4450,3340,35,M,divorciado(a),superior_incompleto,2
+F002,Pombal,PB,urbana,3630,3370,46,F,solteiro(a),medio_incompleto,3
+F003,Patos,PB,rural,3220,3440,57,M,viuvo(a),fundamental_incompleto,4
+F004,Cabedelo,PB,urbana,8450,6930,68,F,uniao_estavel,superior_completo,5
+F005,Campina Grande,PB,urbana,4520,3790,30,M,casado(a),medio_completo,6
+F006,Cajazeiras,PB,urbana,3480,2740,41,F,divorciado(a),fundamental_completo,1
+F007,Mamanguape,PB,rural,2160,2320,52,M,uniao_estavel,sem_instrucao,2
+F008,Bayeux,PB,urbana,7650,5950,63,F,casado(a),superior_completo,3
+F009,Monteiro,PB,urbana,3710,4300,25,F,divorciado(a),medio_completo,4
+F010,Santa Rita,PB,urbana,3550,3190,36,M,solteiro(a),fundamental_completo,5
+F011,Guarabira,PB,rural,3130,3250,47,F,viuvo(a),sem_instrucao,6
+F012,Joao Pessoa,PB,urbana,5650,4320,58,M,uniao_estavel,,1
+F013,Cajazeiras,PB,urbana,4830,5050,69,F,casado(a),medio_incompleto,2
+F014,Mamanguape,PB,urbana,2500,3570,31,M,viuvo(a),fundamental_incompleto,3
+F015,Bayeux,PB,rural,6630,4590,42,F,uniao_estavel,superior_completo,4
+F016,Monteiro,PB,urbana,5710,4760,53,M,casado(a),superior_incompleto,5
+F017,Santa Rita,PB,urbana,7100,5980,64,F,divorciado(a),medio_incompleto,6
+F018,Guarabira,PB,urbana,2590,3060,26,F,solteiro(a),fundamental_incompleto,1
+F019,Joao Pessoa,PB,rural,6730,4090,37,M,viuvo(a),superior_completo,2
+F020,Sousa,PB,urbana,4010,3290,48,F,uniao_estavel,medio_completo,3
+F021,Pombal,PB,urbana,3850,3680,59,M,solteiro(a),fundamental_completo,4
+F022,Patos,PB,urbana,3980,4220,70,F,viuvo(a),sem_instrucao,5
+F023,Cabedelo,PB,rural,4700,4900,32,M,uniao_estavel,superior_incompleto,6
+F024,Campina Grande,PB,urbana,4110,2790,43,F,casado(a),medio_completo,1
+F025,Guarabira,PB,urbana,3940,3170,54,M,divorciado(a),fundamental_completo,2
+F026,Joao Pessoa,PB,urbana,4080,4430,65,F,solteiro(a),sem_instrucao,3
+F027,Sousa,PB,rural,3890,3910,27,F,viuvo(a),superior_incompleto,4
+F028,Pombal,PB,urbana,3630,4440,38,M,divorciado(a),medio_incompleto,5
+F029,Patos,PB,urbana,3760,3480,49,F,solteiro(a),fundamental_incompleto,6
+F030,Cabedelo,PB,urbana,7580,5060,60,M,viuvo(a),superior_completo,1
+F031,Campina Grande,PB,rural,4660,3770,71,F,uniao_estavel,medio_completo,2
+F032,Cajazeiras,PB,urbana,3730,3940,33,M,casado(a),medio_incompleto,3
+F033,Mamanguape,PB,urbana,2960,4000,44,F,divorciado(a),fundamental_incompleto,4
+F034,Bayeux,PB,urbana,9840,6690,55,M,solteiro(a),superior_completo,5
+F035,Monteiro,PB,rural,4730,4220,66,F,casado(a),medio_completo,6
+F036,Santa Rita,PB,urbana,2670,2810,28,F,divorciado(a),fundamental_completo,1
+F037,Cabedelo,PB,urbana,2810,3370,39,M,solteiro(a),sem_instrucao,2
+F038,Campina Grande,PB,urbana,5640,3870,50,F,viuvo(a),superior_incompleto,3
+F039,Cajazeiras,PB,rural,4280,4120,61,M,uniao_estavel,,4
+F040,Mamanguape,PB,urbana,4310,4110,72,F,casado(a),fundamental_completo,5
+F041,Bayeux,PB,urbana,2880,3810,34,M,divorciado(a),sem_instrucao,6
+F042,Monteiro,PB,urbana,4840,4390,45,F,uniao_estavel,superior_incompleto,1
+F043,Santa Rita,PB,rural,3470,2430,56,M,casado(a),medio_incompleto,2
+F044,Guarabira,PB,urbana,4160,3470,67,F,divorciado(a),fundamental_incompleto,3
+F045,Joao Pessoa,PB,urbana,7270,5630,29,F,solteiro(a),superior_completo,4
+F046,Sousa,PB,urbana,4010,4350,40,M,viuvo(a),medio_completo,5
+F047,Pombal,PB,rural,3290,4250,51,F,uniao_estavel,fundamental_completo,6
+F048,Patos,PB,urbana,3360,2490,62,M,casado(a),fundamental_incompleto,1
+F049,Monteiro,PB,urbana,6500,4660,24,F,viuvo(a),superior_completo,2
+F050,Santa Rita,PB,urbana,4110,3850,35,M,uniao_estavel,medio_completo,3
+F051,Guarabira,PB,rural,5590,4940,46,F,casado(a),fundamental_completo,4
+F052,Joao Pessoa,PB,urbana,4070,5480,57,M,divorciado(a),sem_instrucao,5
+F053,Sousa,PB,urbana,6010,4810,68,F,solteiro(a),superior_incompleto,6
+F054,Pombal,PB,urbana,2750,2560,30,F,viuvo(a),medio_incompleto,1
+F055,Patos,PB,rural,2340,2630,41,M,uniao_estavel,fundamental_incompleto,2
+F056,Cabedelo,PB,urbana,3270,3800,52,F,solteiro(a),sem_instrucao,3
+F057,Campina Grande,PB,urbana,6110,4310,63,M,viuvo(a),superior_incompleto,4
+F058,Cajazeiras,PB,urbana,3720,3490,25,F,uniao_estavel,medio_incompleto,5
+F059,Mamanguape,PB,rural,3310,3560,36,M,casado(a),fundamental_incompleto,6
+F060,Bayeux,PB,urbana,6770,5140,47,F,divorciado(a),superior_completo,1
+F061,Pombal,PB,urbana,4400,4330,58,M,solteiro(a),medio_completo,2
+F062,Patos,PB,urbana,4240,3220,69,F,viuvo(a),fundamental_completo,3
+F063,Cabedelo,PB,rural,2250,2440,31,F,divorciado(a),sem_instrucao,4
+F064,Campina Grande,PB,urbana,7740,6070,42,M,solteiro(a),superior_completo,5
+F065,Cajazeiras,PB,urbana,5370,5960,53,F,viuvo(a),medio_completo,6
+F066,Mamanguape,PB,urbana,3440,3740,64,M,uniao_estavel,fundamental_completo,1
+F067,Bayeux,PB,rural,1450,1450,26,F,casado(a),sem_instrucao,2
+F068,Monteiro,PB,urbana,7040,5140,37,M,divorciado(a),superior_incompleto,3
+F069,Santa Rita,PB,urbana,4020,3980,48,F,solteiro(a),medio_incompleto,4
+F070,Guarabira,PB,urbana,4150,4530,59,M,casado(a),fundamental_incompleto,5
+F071,Joao Pessoa,PB,rural,8290,5550,70,F,divorciado(a),,6
+F072,Sousa,PB,urbana,4930,3450,32,F,solteiro(a),superior_incompleto,1
+F073,Mamanguape,PB,urbana,3220,3000,43,M,viuvo(a),medio_incompleto,2
+F074,Bayeux,PB,urbana,3350,3550,54,F,uniao_estavel,fundamental_incompleto,3
+F075,Monteiro,PB,rural,7490,6070,65,M,casado(a),superior_completo,4
+F076,Santa Rita,PB,urbana,4100,3410,27,F,divorciado(a),medio_completo,5
+F077,Guarabira,PB,urbana,3940,3800,38,M,uniao_estavel,fundamental_completo,6
+F078,Joao Pessoa,PB,urbana,3200,3610,49,F,casado(a),sem_instrucao,1
+F079,Sousa,PB,rural,4580,3950,60,M,divorciado(a),superior_incompleto,2
+F080,Pombal,PB,urbana,4870,4770,71,F,solteiro(a),medio_completo,3
+F081,Patos,PB,urbana,3130,2810,33,F,viuvo(a),fundamental_completo,4
+F082,Cabedelo,PB,urbana,3270,3360,44,M,uniao_estavel,sem_instrucao,5
+F083,Campina Grande,PB,rural,5550,4880,55,F,casado(a),superior_incompleto,6
+F084,Cajazeiras,PB,urbana,4420,3970,66,M,viuvo(a),medio_incompleto,1
+F085,Joao Pessoa,PB,urbana,5180,4860,28,F,uniao_estavel,fundamental_incompleto,2
+F086,Sousa,PB,urbana,6770,4700,39,M,casado(a),superior_completo,3
+F087,Pombal,PB,rural,3850,3410,50,F,divorciado(a),medio_completo,4
+F088,Patos,PB,urbana,4480,4420,61,M,solteiro(a),,5
+F089,Cabedelo,PB,urbana,4620,4970,72,F,viuvo(a),fundamental_incompleto,6
+F090,Campina Grande,PB,urbana,6860,4190,34,F,uniao_estavel,superior_completo,1
+F091,Cajazeiras,PB,rural,3950,3610,45,M,solteiro(a),medio_completo,2
+F092,Mamanguape,PB,urbana,3430,3300,56,F,viuvo(a),fundamental_completo,3
+F093,Bayeux,PB,urbana,3570,3850,67,M,uniao_estavel,sem_instrucao,4
+F094,Monteiro,PB,urbana,4830,5010,29,F,casado(a),superior_incompleto,5
+F095,Santa Rita,PB,rural,3470,3060,40,M,divorciado(a),medio_incompleto,6
+F096,Guarabira,PB,urbana,28500,9200,51,F,solteiro(a),fundamental_completo,1
