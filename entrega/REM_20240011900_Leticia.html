@@ -35,6 +35,7 @@ PARQUET = PASTA / &quot;dados/RAIS_VINC_PUB_NORTE.COMT.parquet&quot;</code></pre
 <section class="prose"><h1>Remunerômetro — RAIS Norte</h1>
 <h2 id="sec-1-0">0. Identificação</h2>
 <p>Autoria: <strong>Letícia Braz Bonfim</strong></p>
+<p>Matrícula: <strong>20240011900</strong></p>
 <p>Semente: <strong>011900</strong></p>
 <p>Prazo da Entrega: <strong>08/11/2026</strong>.</p>
 <h2 id="sec-1-1">1. Pergunta do projeto</h2>
@@ -1341,6 +1342,6 @@ plt.show()</code></pre></details>
 <p>Os dados representam vínculos formais da RAIS 2025 Norte com remuneração média mensal positiva. Não representam todas as pessoas nem todas as vagas; não medem o efeito de trocar de profissão ou cidade. Alguns códigos atuais ainda não têm definição confirmada, e não há teste com outro ano ou região. Sexo não entrou no modelo, mas isso não garante ausência de diferenças de erro entre grupos.</p>
 <p><strong>Critério do Ridge:</strong> para <code>z = ln(remuneração)</code>, o modelo minimiza <code>Σ(zᵢ − b₀ − Xᵢβ)² + αΣβⱼ²</code>. O <code>alpha</code> foi escolhido nas cinco dobras, antes do teste.</p>
 <p><strong>Uso de IA:</strong> Codex/OpenAI ajudou a organizar e programar o notebook além de escrever a documentação. A validação final/revisão e execução técnica foi feita por mim.</p>
-<p><strong>Arquivos públicos:</strong> <code>REM_Leticia.ipynb</code> executado e <code>REM_Leticia.html</code>.</p>
+<p><strong>Arquivos acadêmicos:</strong> <code>REM_20240011900_Leticia.ipynb</code> executado e <code>REM_20240011900_Leticia.html</code>.</p>
 <p><strong>Repositório do projeto:</strong> <a href="https://github.com/LeticiaBrazBonfim/remunerometro-rais-norte">LeticiaBrazBonfim/remunerometro-rais-norte</a>.</p>
 <p><strong>Erro por Grupo:</strong> Também foi analisado o erro por grupo para verificar se o modelo é igualmente preciso em diferentes perfis. No teste, o MAE foi de R$ 1.414,48 para o código de sexo 1 e R$ 1.322,83 para o código 2. O código de escolaridade 10 teve MAE maior, mas também apresentou remuneração média mais alta. Essas diferenças descrevem o desempenho do modelo e não provam relações causais.</p></section></main><footer class="footer">Projeto acadêmico · Notebook executado e exportado em HTML</footer></div></div></body></html>
