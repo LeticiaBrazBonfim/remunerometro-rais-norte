@@ -138,7 +138,7 @@ Limites semânticos do dicionário atual e PUB, dependência entre vínculos da 
 
 ## 11. Consolidação e simplificação vigente
 
-A semente foi mantida em **011900**. Os arquivos acadêmicos seguem o padrão `REM_20240011900_Leticia.ipynb` e `REM_20240011900_Leticia.html`. A versão vigente contém as seções 0–7 do enunciado e todo o processamento no notebook.
+A semente foi mantida em **011900**. Os arquivos públicos são `REM_Leticia.ipynb` e `REM_Leticia.html`. A versão vigente contém as seções 0–7 do enunciado e todo o processamento no notebook.
 
 Uma versão intermediária acrescentou uma referência agrupada e uma descrição de coeficientes depois da avaliação final. Como não eram exigidas pelo professor e aumentavam o volume do projeto, saíram da apresentação principal. Os arquivos históricos foram removidos na limpeza do repositório; nunca foram usados para trocar Ridge nem para reabrir o teste.
 

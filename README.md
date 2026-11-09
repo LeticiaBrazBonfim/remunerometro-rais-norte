@@ -20,8 +20,8 @@ O Ridge teve o menor MAE na validação cruzada (**R$ 1.369,17**). Após essa es
 
 | Caminho | Conteúdo |
 |---|---|
-| `entrega/REM_20240011900_Leticia.ipynb` | Notebook executado, com exploração, preparo, modelos, avaliação e conclusões |
-| `entrega/REM_20240011900_Leticia.html` | Relatório estático com as saídas do notebook |
+| `entrega/REM_Leticia.ipynb` | Notebook executado, com exploração, preparo, modelos, avaliação e conclusões |
+| `entrega/REM_Leticia.html` | Relatório estático com as saídas do notebook |
 | `documentacao/` | Enunciado, materiais de aula e leiautes consultados |
 | `01_ficha_formulacao.md` a `03_registro_modelagem_avaliacao.md` | Formulação, atributos e resultados do estudo |
 | `dados/` | Base RAIS e Parquet locais; os microdados não são versionados |
